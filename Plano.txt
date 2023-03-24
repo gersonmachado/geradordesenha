@@ -1,0 +1,4 @@
+- Desenvolver gerador fraco e forte
+- Adicionar função para embaralhar senha sempre que quiser
+- Desenvolver uma tela com Tkinter
+- Colocar opção de copiar para o clipboard com click
