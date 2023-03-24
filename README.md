@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=128px height=128px src="Image/python.png" alt="Project logo">
+  <img width=128px height=128px src="image/python.png" alt="Project logo">
 </p>
 <h2 align="center">Python Projects</h2>
 
